@@ -1,0 +1,13 @@
+{
+  "name": "import_dinamico",
+  "version": "1.0.0",
+  "description": "Teste de importação dinâmica",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "olá mundo"
+  },
+  "author": "Julimar Simões de Paula",
+  "license": "ISC"
+}
