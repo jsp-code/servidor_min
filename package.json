@@ -6,9 +6,12 @@
   "scripts": {
     "start": "node main.js",
     "test": "olá mundo"
+  },"engines": {
+    "node": "12.x",
+     "npm": "6.x"
   },
  "dependencies": {
-    "node": "^12.20.0"
+    "node": "^12.x"
   },
   "author": "Julimar Simões de Paula",
   "license": "ISC"
