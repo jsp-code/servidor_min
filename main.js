@@ -1,6 +1,10 @@
+console.log('ok')
+
 const fs =require('fs');
 const http =require('http');
 const PORT = process.env.PORT || 8458
+
+console.log('ok')
 
 http.createServer(function (req, res) {
   var riquest = riquestType(req);
