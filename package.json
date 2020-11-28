@@ -7,6 +7,10 @@
     "start": "node main.js",
     "test": "olá mundo"
   },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security"
+  },
   "author": "Julimar Simões de Paula",
   "license": "ISC"
 }
