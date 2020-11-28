@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Teste de importação dinâmica",
   "main": "main.js",
-  "type": "module",
+  //"type": "module",
   "scripts": {
     "start": "node main.js",
     "test": "olá mundo"
